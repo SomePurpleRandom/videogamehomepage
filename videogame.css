@@ -1,0 +1,48 @@
+body {
+  background-color: #171A21;
+  color: #0D3D60;
+}
+
+#header {
+  color: #0D3D60;
+}
+
+#witcher {
+  color: #2C5675;
+  float: left;
+  height: 200px;
+  width: 375px;
+  background-color: #1B2838;
+  margin: 20px;
+  padding: 20px;
+}
+
+#csgo {
+  color: #2C5675;
+  float: left;
+  height: 200px;
+  width: 375px;
+  background-color: #1B2838;
+  margin: 20px;
+  padding: 20px;
+}
+
+#socialmedia {
+  color: #2C5675;
+  background-color: #16202D;
+  margin: 20px;
+  padding: 20px;
+  float:left;
+}
+
+#contact {
+  color: #2C5675;
+  background-color: #16202D;
+  margin:20px;
+  padding:20px;
+  width:375px;
+  height:350;
+}
+.clearFloat {
+  clear:both;
+}
